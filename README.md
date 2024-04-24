@@ -1,4 +1,6 @@
-# Boilerplate code for a project using Symfony as backend and React with Vite for frontend
+# Boilerplate code for a Symfony project using React with Vite
+
+Made using <a href='https://dev.to/gbtux/react-dans-symfony-avec-vite-5e74'>this tutorial</a>.
 
 ## Requirement
 - PHP
@@ -6,6 +8,7 @@
 - Composer
 - Symfony CLI
 - Node.js
+
 
 ## 1. Install dependencies:
   ``` composer
